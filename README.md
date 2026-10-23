@@ -4,7 +4,7 @@ End-to-end composite design, advanced laminate definition via ANSYS ACP, and mul
 
 ---
 
-## 🛠️ Toolchain & Specifications
+##  Toolchain & Specifications
 * **CAD & Modeling:** SolidWorks / CATIA V5 (Mid-surface shell representation & solid metallic insert)
 * **Pre-Processing & Layup:** ANSYS ACP-Pre (Composite PrepPost), Tubular Mapping, Oriented Selection Sets (OSS)
 * **Structural Solver:** ANSYS Mechanical (Bonded contact mechanics, static multi-axial loading)
@@ -13,7 +13,7 @@ End-to-end composite design, advanced laminate definition via ANSYS ACP, and mul
 
 ---
 
-## 📐 Methodology & Workflow
+## Methodology & Workflow
 
 1. **Geometry Preparation (CAD):** Modeled a clean hollow circular tube (300 mm length, 40 mm outer diameter) extracted as a mid-surface shell, paired with a 3D solid aluminum end-fitting sleeve (50 mm length) to replicate realistic rod-end joint interfaces found in suspension wishbones.
 2. **Material Property Definition:** Defined orthotropic material parameters for high-modulus carbon fiber prepreg ($E_1 = 135\text{ GPa}$, $E_2 = 10\text{ GPa}$) and isotropic properties for the aluminum insert ($E = 70\text{ GPa}$).
@@ -23,13 +23,13 @@ End-to-end composite design, advanced laminate definition via ANSYS ACP, and mul
 
 ---
 
-## 🔗 Related Portfolio Work
+##  Related Portfolio Work
 * [fsae-topology-optimization](https://github.com/rupeshwaran67-prog) — SOLIDWORKS Topology Optimisation of a three-point suspension link.
 * [fsae-suspension-fatigue-analysis](https://github.com/rupeshwaran67-prog) — Static structural and fatigue analysis of suspension components (ANSYS Mechanical).
 
 ---
 
-## 👤 Author
+##  Author
 **Rupeshwaran Paranthaman**  
 * MSc Automotive Engineering, University of Hertfordshire
 * Composite Design Lead & Crash Test Engineer, UH Racing Autonomous (Formula Student)  
